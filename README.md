@@ -19,7 +19,7 @@ pip install nbformat
 Usage
 - CLI:
   ```bash
-  python converter.py path/to/file.dbc [out_dir]
+  python dbc_to_ipynbs.py path/to/file.dbc [out_dir]
   # default out_dir is "<dbc_basename>_ipynb"
   ```
 
